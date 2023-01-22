@@ -5,7 +5,7 @@ I AM IN NO WAY RELATED WITH THIS PROJECT! USE AT YOUR OWN RISK! <br>
 <br>
 <br>
 # A big issue with LADB
-v2.1 seems to be broken on Android 13. Take a look at https://github.com/tytydraco/LADB/issues/96. v2.0 works for me. I would recommend getting v2.0 if LADB doesn't work for you too: https://github.com/hyperio546/ladb-builds/releases/tag/v2.0. <br><br>
+v2.1 seems to be broken on Android 13. Take a look at https://github.com/tytydraco/LADB/issues/96 and https://github.com/tytydraco/LADB/issues/90. v2.0 works for me. I would recommend getting v2.0 if LADB doesn't work for you too: https://github.com/hyperio546/ladb-builds/releases/tag/v2.0. <br><br>
 Here is the original project: https://github.com/tytydraco/LADB <br>
 All credits to tytydraco for this amazing app!
 <br> <br>

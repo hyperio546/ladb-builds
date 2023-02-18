@@ -1,7 +1,7 @@
 # ladb-builds
 Compiled builds for LADB so that you don't need to pay in the Play Store. <br>
 All credits to the developer for this application. I will keep supporting this and compiling newer builds as time goes on. <br>
-I don't have any intention to cause financial issues to any of the original devs. If you want to support the project I'd recommend you pay.
+I don't have any intention to cause financial issues to any of the original devs. If you want to support the project I'd recommend you pay.<br>
 I AM IN NO WAY RELATED WITH THIS PROJECT! USE AT YOUR OWN RISK! <br>
 <br>
 # A big issue with LADB
